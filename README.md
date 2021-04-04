@@ -12,9 +12,9 @@ Stack:
 
 ### ScreenShots:
 
-![](https://github.com/AleksandrTcibulko/ChatApp_Public/blob/master/screenshots/1.png)
+![](https://github.com/AleksandrTcibulko/ChatApp_Public/blob/master/screenshots%20/1.png)
 
-![](https://github.com/AleksandrTcibulko/ChatApp_Public/blob/master/screenshots/2.png)
+![](https://github.com/AleksandrTcibulko/ChatApp_Public/blob/master/screenshots%20/2.png)
 
-![](https://github.com/AleksandrTcibulko/ChatApp_Public/blob/master/screenshots/3.png)
+![](https://github.com/AleksandrTcibulko/ChatApp_Public/blob/master/screenshots%20/3.png)
 
